@@ -1,10 +1,10 @@
 import { GambaStandardTokens, TokenMeta } from 'gamba-react-ui-v2'
 
 // Can be configured in .env
-export const RPC_ENDPOINT = import.meta.env.VITE_RPC_ENDPOINT ?? "https://api.mainnet-beta.solana.com"
+export const RPC_ENDPOINT = import.meta.env.VITE_RPC_ENDPOINT ?? "https://solana-mainnet.g.alchemy.com/v2/zFXRojX8Z0IwNjENs-lcyohg6PqnwzNF"
 
 // Change this value to your Solana address
-export const PLATFORM_CREATOR_ADDRESS = 'V2grJiwjs25iJYqumbHyKo5MTK7SFqZSdmoRaj8QWb9'
+export const PLATFORM_CREATOR_ADDRESS = 'FEdyYyBdG5uiUtupbkVrnYtAz7JEpaKanvdhncSCDL7u'
 
 // Appears in ShareModal
 export const PLATFORM_SHARABLE_URL = 'v2-play.gamba.so'

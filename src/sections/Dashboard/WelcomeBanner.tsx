@@ -100,20 +100,20 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>Welcome To StakeSol 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana.
+        Your decentralized Solana casino, lightning fast and no registration needed!
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liqudity
+        <button onClick={() => window.open('https://raydium.com/swap/xxxx', '_blank')}>
+          Buy SSol Token
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://t.me/xxxxx', '_blank')}>
+          Telegram
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
-          💬 Discord
+        <button onClick={() => window.open('https://dexscreen.com/xxxxx', '_blank')}>
+          DexScreen
         </button>
       </Buttons>
     </Welcome>
