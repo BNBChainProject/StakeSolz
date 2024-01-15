@@ -107,7 +107,7 @@ export function WelcomeBanner() {
       </div>
       <Buttons>
         <button onClick={() => window.open('https://raydium.com/swap/xxxx', '_blank')}>
-          Buy SSol Token
+          Buy SSol
         </button>
         <button onClick={() => window.open('https://t.me/xxxxx', '_blank')}>
           Telegram
